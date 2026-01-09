@@ -1,4 +1,9 @@
-:link: :1st_place_medal: ASK 2026 : 2team_Simultaneous prediction of multiple Properties of drilling cores for resource exploration
-저자 : 정지성, 손형오, 노예진, 최지우, 김영균
+## :link: :1st_place_medal: ASK2026 : 자원탐사 자동화를 위한 시추코어 다중 특성 동시 예측
 
-:link: :one: 데이터 셋
+주제 : 자원탐사 자동화를 위한 시추코어 다중 특성 동시 예측
+
+* **저자 : 정지성, 손형오, 노예진, 최지우, 김영균**
+
+---
+
+### :link: :one: 데이터 셋
